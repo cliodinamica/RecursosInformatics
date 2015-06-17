@@ -1,0 +1,38 @@
+Recursos informàtics i mètodes quantitatius en Història.
+TREBALL DE CURS
+Daniel Bosch
+TEMA:
+És possible estudiar la Història de forma científica? La "cliodinàmica".
+EINES:
+    - pads (com aquest):
+        + permet l'anotació d'enllaços, idees, llistes, text, etc
+        + permet col·laborar amb diferents persones (el color del destacat permet saber l'autoria de cada anotació) i des de diferents terminals alhora
+        + molts pads disposen d'un servei de xat per a la comunicació instantània
+        
+    - la Web:
+        + evidentment una de les grans fonts d'informació, cada dia més gràcies a la digitalització d'arxius i hemeroteques
+        + wikipèdies, blogs, arxius, hemeroteques, revistes especialitzades, buscadors especialitzats, etc
+        + arqueologia digital (per a l'estudi d'èpoques contemporànies cal saber "desenterrar" la informació de la xarxa)
+    
+    - llenguatges de programació:
+        + més enllà de les fulles de càlcul, sovint, en investigació històrica amb moltes dades (censos, demografies, informació econòmica, etc) necessitem poder treballar amb grans bases de dades i extreure'n informació rellevant
+        + tot i els seus detractors, el llenguatge Python sembla que ha aconseguit el seu lloc entre les Humanitats i trobem molts blogs que en parlen i n'expliquen la sintàxi bàsica i la seva utilitat
+        -> https://hist291.wordpress.com/2013/03/15/from-analog-to-python-should-a-digital-historian-know-how-to-program/
+        -> http://adamcrymble.blogspot.com.es/2014/08/learning-python-with-programming.html
+        + Python és un dels llenguatges més senzills, entenedors i de sintàxi poc exigent que ens permetràn filtrar grans quantitats de dades amb una corva d'aprenentatge relativament lleu si entenem el principis bàsics de la programació
+        
+    - LaTeX:
+        + Tot i l'acceptació de l'aplicació propietària Microsoft Word com a estàndard de facto per als documents de text, per a la majoria del món acadèmic i científic la maquetació d'articles, "papers" i documentació general es sol demanar en LaTeX. LaTeX és un sistema per a processar textos ràpida i molt més acurada que qualsevol processador WYSIWYG (what you see is what you get). Només demana un petit aprenentatge del codi i una vegada superat permet centrar-se només en el contingu i deixar els assumptes de maquetació en mans del computador.
+        
+    - Git:
+        + Una altra eina interessant que es pot instal·lar a un servidor propi o fer servir un de public com http://github.com
+        + Git és una eïna per al control de versions utilitzat majoritàriament en entorns de programació, però que permet també tenir còpies de bases de dades, textos, etc en local i també en remot (al servidor). Git s'encarrega de si algú ha fet canvis en la versió del servidor, actualitzar de forma segura la versió local i a l'inrevés. També permet fer "forks" de manera que un mateix projecte pot tenir versions diferents.
+        
+PRESENTACIÓ:
+En aquest cas, imaginarem que vull presentar una recerca a altres persones que els interessi col·laborar. Tant de l'àmbit d'Història com d'altres diciplines (Matemàtiques, Informàtica, Antropologia, etc). Vull fer-ho en base a eines que estiguin disponibles per a totes les plataformes (sistemes operatius) possibles, que permeti el treball on-line i que respecti els estàndards, la llibertat de programari i la privacitat de la investigació. Per tant queden descartades eines com Facebook, WhatsApp, Google (Drive, Docs, etc). Per tant el grup de treball s'estructurarà en:
+    - comunicació en diferit: correu electrònic i llista de correu (l'avantatge de la llista de correu és que permet un fluxe d'informació en diferit i l'usuari pot escollir si el vol rebre al moment, en mode "digest", etc).
+    - comunicació instantània: donat que aquest tipus de comunicació només serà necessària durant les possibles feines online, crec que el propi xat dels pads és una eina perfectament.
+    - bases de dades, documents, versions: GitHub permet treballar en projectes amb diferents documents entre vàries persones, es pot utilitzar des del propi navegador o configurar-ho a qualsevol computador. Per a un projecte real, agafaria la versió premium o bé un servidor propi per temes de seguretat i privacitat. GitHub permet que cada col·laborador pugi documents de qualsevol tipus, modifiqui, revisi, etc i quedin totes les versions anotades i amb còpies de seguretat.
+    - treball col·laboratiu al moment: per experiència pròpia, crec que un "pad", com aquest, és una manera cómoda i fàcil de treballar en un projecte conjunt
+PLANTEJAMENT:
+Personalment fa temps que m'interessa el mètode científic com a forma de validar el coneixement. Crec, humilment, que gran part de l'estudi de la Història
